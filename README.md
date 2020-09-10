@@ -10,4 +10,4 @@ admire the work and want to create a similar piece by myself. The links to the
 tutorials are in the `script.js` file in each of the day's folders.
 
 ## Day 1
-![Day 1](day 1/day 1.png?raw=true)
+![Day 1](https://github.com/carolksun/generative-art/blob/master/day%201/day%201.png)
