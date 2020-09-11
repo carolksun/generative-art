@@ -13,4 +13,4 @@ tutorials are in the `script.js` file in each of the day's folders.
 ![Day 1](https://github.com/carolksun/generative-art/blob/master/day%201/day%201.png)
 
 ## Day 2
-![Day 2](https://github.com/carolksun/generative-art/blob/master/day%202/day%202.gif)
+![Day 2](https://github.com/carolksun/generative-art/blob/day-2/day%202/day%202.png)
