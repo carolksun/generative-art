@@ -10,10 +10,13 @@ admire the work and want to create a similar piece by myself. The links to the
 tutorials are in the `script.js` file in each of the day's folders.
 
 ## Day 1
-![Day 1](day-1/day-1.png)
+![Day 1](day-1/day-1.png =250x250)
 
 ## Day 2
-![Day 2](day-2/day-2.png)
+![Day 2](day-2/day-2.png =250x250)
 
 ## Day 3
-![Day 3](day-3/day-3-pastel.png)
+![Day 3](day-3/day-3-pastel.png =250x250)
+
+## Day 4
+![Day 4](day-4/day-4.png =250x250)
