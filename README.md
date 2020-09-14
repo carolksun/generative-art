@@ -23,3 +23,6 @@ tutorials are in the `script.js` file in each of the day's folders.
 
 ## Day 5
 <img src='day-5/day-5.png' width='500'/>
+
+## Day 6
+<img src='day-6/day-6.png' width='500'/>
