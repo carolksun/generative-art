@@ -34,4 +34,4 @@ tutorials are in the `script.js` file in each of the day's folders.
 <img src='day-8/day-8.png' width='500'/>
 
 ## Day 9
-<img src='day-9/day-9.gif' width='500'/>
+<img src='day-9/day-9.png' width='500'/>

@@ -48,6 +48,6 @@ function renderWave(yPosition) {
   noStroke();
   fill('#' + random(colors));
   for (let x = 0; x < yvalues.length; x++) {
-    ellipse(x * xspacing, yPosition + yvalues[x], 16, 16);
+    ellipse(x * XSPACING, yPosition + yvalues[x], 16, 16);
   }
 }
