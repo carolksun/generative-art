@@ -40,4 +40,4 @@ tutorials are in the `script.js` file in each of the day's folders.
 <img src='day-10/day-10.png' width='500'/>
 
 ## Day 11
-<img src='day-10/day-10.png' width='500'/>
+<img src='day-11/day-11.png' width='500'/>
