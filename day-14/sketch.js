@@ -1,4 +1,4 @@
-// Day 13 of my generative art challenge
+// Day 14 of my generative art challenge
 // Followed https://github.com/b2renger/p5js_patterns/blob/master/art-deco_2/sketch.js
 const slotWidth = 200;
 const slotHeight = slotWidth * 1.3;
